@@ -5,4 +5,4 @@
 ### It will look like this:
 ![image](https://i.imgur.com/jl2a7vp.png)
 
-##(If you can code a bit and you know all this discord RPC stuff you can change the picture ykyk)
+(If you can code a bit and you know all this discord RPC stuff you can change the picture ykyk)
